@@ -25,5 +25,5 @@ uv run scripts/demo.py
 
 ## Author
 
-Evamaria Castillo Sanchez <evamaria.castillosanchez@edu.em-lyon.edu>
+Evamaria Castillo Sanchez <evamaria.castillosanchez@edu.em-lyon.com>
 
