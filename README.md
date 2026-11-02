@@ -1,4 +1,3 @@
-
 # castillo_course04
 
 A Python project for the emlyon business school Python programming course.
